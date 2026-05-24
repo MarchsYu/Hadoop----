@@ -1,0 +1,10 @@
+target/
+*.class
+*.log
+.idea/
+*.iml
+.vscode/
+
+# Hadoop 输出目录（保留目录结构）
+data/output/*
+!data/output/.gitkeep
