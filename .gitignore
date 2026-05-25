@@ -1,10 +1,17 @@
 target/
 *.class
 *.log
+logs/
+*.out
+*.tmp
+*.bak
 .idea/
 *.iml
 .vscode/
+.DS_Store
 
 # Hadoop 输出目录（保留目录结构）
 data/output/*
 !data/output/.gitkeep
+data/result/*
+!data/result/.gitkeep
