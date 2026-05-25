@@ -59,7 +59,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>hotel.driver.OccupancyDriver</mainClass>
+                            <mainClass>hotel.driver.ProjectEntry</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
